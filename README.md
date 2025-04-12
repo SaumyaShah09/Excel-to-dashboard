@@ -18,6 +18,3 @@ This is an interactive sales dashboard built using **Streamlit** and **Plotly**.
 - Beautiful Plotly charts with hover info and custom colors.
 
 ---
-
-## 📁 File Structure
-
